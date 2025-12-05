@@ -7,7 +7,7 @@
 const CONFIG = {
     // --- 1. PENGATURAN LISENSI ---
     license: {
-        key: '77416C6723F2E9BFB09564AD03403160',
+        key: 'BELI',
         url: 'https://digi.rafie.id/api.php',
     },
 
